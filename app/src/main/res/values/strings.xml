@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="app_header">Welcome to Counter App</string>
+    <string name="start_service">Start Counter</string>
+    <string name="stop_service">Stop Counter</string>
+    <string name="enter_number">Enter Number</string>
+</resources>
